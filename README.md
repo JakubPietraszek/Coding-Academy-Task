@@ -1,2 +1,2 @@
-# Coding-Academy-Task
-Task for Motorola Solutions
+
+My foray into coding began simply out of curiosity; I'd heard a lot about the rapid advancement of technology and wanted to get a sense of what it's like to code. It quickly became my enthusiasm as I adored making simple projects after simple tasks. Over time, I've come to the conclusion that it's something I can excel at because I've always been drawn to anything that needs critical thinking. If there is enough enthusiasm, self-discipline, and a skilled teacher, I believe that everyone can perfect any talent. Unfortunately, I need the last component, which is why I applied to the Motorola Programming Academy. Working on initiatives that have a meaningful influence on people's lives, contributing to a world of developing technology that makes life easier for all of us, appeals to me greatly.
